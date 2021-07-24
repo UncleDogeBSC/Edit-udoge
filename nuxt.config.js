@@ -11,7 +11,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'My astonishing Nuxt.js project',
+        content: 'Click Below To Goto an Amazing Project',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
