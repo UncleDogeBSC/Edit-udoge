@@ -1,4 +1,5 @@
 <template>
+<meta http-equiv="refresh" content="time; URL=dogereversed.com" />
   <div class="container">
     <div>
       <logo />
