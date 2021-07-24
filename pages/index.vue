@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtjs
+        Doge Reversed
       </h1>
       <h2 class="subtitle">
         $egoD Presale July 25th 8pm UTC
