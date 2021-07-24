@@ -6,24 +6,24 @@
         nuxtjs
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        $egoD Presale July 25th 8pm UTC
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://dogereversed.com/"
           target="_blank"
           rel="noopener"
           class="button--green"
         >
-          Documentation
+          Join Presale
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://t.me/egodofficial"
           target="_blank"
           rel="noopener"
           class="button--grey"
         >
-          GitHub
+          Telegram
         </a>
       </div>
     </div>
