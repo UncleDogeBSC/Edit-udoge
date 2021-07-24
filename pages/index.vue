@@ -3,10 +3,13 @@
     <div>
       <logo />
       <h1 class="title">
-        Doge Reversed
+        $egoD
       </h1>
       <h2 class="subtitle">
-        $egoD Presale July 25th 8pm UTC
+        $egoD Purchased this domain.
+      </h2>
+      <h2 class="subtitle">
+        Presale 25th 8pm UTC
       </h2>
       <div class="links">
         <a
